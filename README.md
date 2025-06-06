@@ -1,6 +1,6 @@
 # Magyar IT tartalmak gyűjteménye - WIP 2025.06.06
 Kategóriák szerinti magyar nyelvű, informatikához kapcsolódó tartalmak gyűjteménye. 
-Ha új tartalmazt adnál hozzá, PR jöhet.
+Ha új tartalmat adnál hozzá, PR jöhet.
 
 ## Video
 
@@ -10,11 +10,13 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 
 #### DevOps
 * [IT Sziget](https://www.youtube.com/@itsziget): Docker
+* [Kernel Pánik](https://www.youtube.com/@kernel_panik): szerverek, hálózatok, IT üzemeltetés, rendszergazda élet
 
 #### Programozás
 * [AronTanos - Twitch](https://www.twitch.tv/arontanos) | [(VOD/Vágott)](https://youtube.com/@tokeletlenek): Python programozás, AI integráció
 * [Gerifield YT](https://www.youtube.com/@Gerifield/videos) | [Twitch](https://www.twitch.tv/gerifield)
 * [MagosIT](https://www.youtube.com/u9vata): Lowlevel programozás, Linux, AI, Új algoritmusok, Uncut streaming
+* [Programozás Karrier](https://www.youtube.com/@programozaskarrier): IT karrierépítés, webfejlesztés
 * [San Franciscoból Jöttem](https://www.youtube.com/@SanFranciscobolJottem): IT oktatás
 * [WebMánia](https://www.youtube.com/@WebManiacc): Webfejlesztés
 * [Zaltech](https://www.youtube.com/channel/UC589h_ID3IbOv5eg4W5T5dQ): Programozás, DevOps, AI, Robotok
@@ -34,7 +36,9 @@ Ha új tartalmazt adnál hozzá, PR jöhet.
 * [Balint Pethe](https://balintpethe.com/): Fullstack fejleztés (Vue, Laravel)
 * [HunASM](https://web.archive.org/web/20190913042955if_/http://hunasm.uw.hu/): Assembly programozás
 * [San Franciscoból Jöttem](https://sanfranciscoboljottem.com/): IT oktatás
+* [sulipy](https://sulipy.hu/): Python, Javascript, Git, stb. alapok, digitális kultúra érettségi megoldások
 * [Webdev Center](https://webdevcenter.hu/): Webfejlesztés
+* [WPSuli](https://wpsuli.hu/): WordPress oktatóanyagok, hírek
 * [Zalán Medium](https://zlaval.medium.com/list/zalan-magyar-tartalmak-2e5878418218): Prog, Devops, Data Eng
 
 
